@@ -3,7 +3,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=180&text=Isaac%20J.%20GBETCHOEVI&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Applied%20Mathematician&descSize=15&descAlignY=68&descColor=cccccc&animation=fadeIn" />
 
 <br><br>
-![WhatsApp Image 2026-04-09 at 14 41 09](https://github.com/user-attachments/assets/ebdd4803-1779-4348-bf66-c03e33660d5e)
 
 <img src="https://github.com/user-attachments/assets/ebdd4803-1779-4348-bf66-c03e33660d5e" width="150" style="border-radius: 50%;" alt="Isaac Gbetchoevi">
 

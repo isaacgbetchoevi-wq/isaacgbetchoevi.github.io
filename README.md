@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Isaac Gbetchoevi
 
-🎯 Data Analyst | Data Scientist | Applied Mathematics  
+🎯 Data Scientist | Modelization | Simulation  
 📍 Paris, France  
 📫 isaacgbetchoevi@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/isaac-gbetchoevi/)
@@ -19,7 +19,7 @@ I specialize in:
 - 🧠 Mathematical modeling & simulation  
 - 🐍 Python for data analysis  
 
-I am currently seeking a **Data Analyst / Data Scientist position** where I can leverage my quantitative skills to build impactful solutions.
+I am currently seeking a **Data Scientist position** where I can leverage my quantitative skills to build impactful solutions.
 
 ---
 

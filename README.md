@@ -1,176 +1,142 @@
+
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Isaac%20J.%20GBETCHOEVI&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Applied%20Mathematician&descAlignY=58&descSize=16&animation=fadeIn" />
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Turning+equations+into+insight.;From+models+to+decisions.;Math+%2B+Data+%2B+Impact.)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=180&text=Isaac%20J.%20GBETCHOEVI&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Applied%20Mathematician&descSize=15&descAlignY=68&descColor=cccccc&animation=fadeIn" />
 
 <br/>
 
-<!-- BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gbetchoevi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-isaacgbetchoevi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacgbetchoevi@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+33_6_05_50_93_34-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+33605509334)
-[![English](https://img.shields.io/badge/English-B2_Professional-6366F1?style=for-the-badge&logo=googletranslate&logoColor=white)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=17&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=620&lines=Turning+mathematical+rigor+into+data-driven+decisions.;From+econometric+models+to+machine+learning.;Available+for+Data+Analyst+%26+Data+Scientist+roles.)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gbetchoevi-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-isaacgbetchoevi@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:isaacgbetchoevi@gmail.com)&nbsp;&nbsp;
+[![Phone](https://img.shields.io/badge/Phone-+33_6_05_50_93_34-000000?style=flat-square)](tel:+33605509334)&nbsp;&nbsp;
+![English](https://img.shields.io/badge/English-B2_Professional-000000?style=flat-square)&nbsp;&nbsp;
+![Location](https://img.shields.io/badge/Location-France-000000?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-```python
-isaac = {
-    "name"       : "Isaac J. GBETCHOEVI",
-    "role"       : ["Data Analyst", "Data Scientist", "Modeling & Simulation Engineer"],
-    "location"   : "France 🇫🇷",
-    "education"  : [
-        "MSc Analysis, Modeling & Simulation — Paris-Saclay University (2024–2025)",
-        "MSc Pure & Applied Mathematics — IMSP Benin (2022–2024)"
-    ],
-    "passions"   : ["Time Series Forecasting", "ML Modeling", "Quantitative Analysis"],
-    "currently"  : "Learning SQL, ML & Data Visualization",
-    "seeking"    : "Data Analyst / Data Scientist role"
-}
-```
+I am an **applied mathematician** with expertise in statistical modeling, time series analysis, and data-driven problem solving. My background bridges pure mathematics and real-world data applications — from forecasting macroeconomic indicators using ARIMA/GARCH models to stabilizing complex physical systems through numerical simulation.
 
-> *Applied mathematician with a rigorous analytical mindset — I transform complex real-world problems into data-driven solutions, from macroeconomic forecasting to dynamic system stabilization.*
+I am rigorous, analytical, and deeply motivated by impactful work. I am currently seeking a **Data Analyst** or **Data Scientist** position where I can contribute meaningfully from day one.
 
 ---
 
-## 🛠️ Tech Stack
+## Experience
 
-<div align="center">
+### Modeling & Simulation Engineer — *L2S, CentraleSupélec*
+`May 2025 – Aug 2025` · Paris, France
 
-**Languages & Core Tools**
+Worked on the stabilization of complex physical systems (antenna, pendulum) under external disturbances.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- Modeled dynamic systems using differential equations and control theory
+- Collected, preprocessed, and analyzed relevant simulation data
+- Developed numerical simulations in Python to validate theoretical results
+- Identified optimal stabilization parameters through iterative analysis
+- Communicated findings to both technical and non-technical stakeholders
+
+---
+
+### Data Scientist — *Statistical & Economic Firm*
+`Aug 2023 – Sep 2023` · Lomé, Togo
+
+Forecasted macroeconomic indicators (inflation, GDP, exchange rates) to support national-level economic decisions.
+
+- Collected and cleaned macroeconomic datasets from multiple sources
+- Built, compared, and selected forecasting models: **ARIMA, SARIMA, GARCH**
+- Automated end-to-end forecasting workflows using **Python** and **R**
+- Conducted rigorous model validation and performance evaluation
+
+---
+
+## Education
+
+### MSc in Analysis, Modeling & Simulation
+**Paris-Saclay University** · 2024 – 2025 · France
+
+Numerical methods · Data-driven modeling · Simulation · Optimal control
+
+---
+
+### MSc in Pure and Applied Mathematics
+**Institute of Mathematics and Physical Sciences (IMSP)** · 2022 – 2024 · Benin
+
+Numerical optimization · Probability & Statistics · Mathematical analysis
+
+---
+
+## Skills
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(learning)-555555?style=flat-square&logo=postgresql&logoColor=white)
 
 **Data & Analysis**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 
-**Currently Learning**
+**Domains**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
+`Time Series Analysis` &nbsp; `Statistical Modeling` &nbsp; `Econometrics` &nbsp; `Numerical Optimization` &nbsp; `Optimal Control` &nbsp; `Machine Learning` *(in progress)* &nbsp; `Data Visualization` *(in progress)*
 
 ---
 
-## 💼 Experience
+## Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 Modeling & Simulation Engineer
-**L2S – CentraleSupélec** · *May–Aug 2025*
-
-Stabilization of complex physical systems (antenna, pendulum) under external disturbances.
-
-- Modeled dynamic systems via differential equations
-- Developed numerical simulations in **Python**
-- Identified optimal control parameters
-- Delivered results to mixed technical/non-technical audiences
-
-</td>
-<td width="50%">
-
-### 📈 Data Scientist
-**Statistical & Economic Firm** · *Lomé, Togo · Aug–Sep 2023*
-
-Forecasting macroeconomic indicators (inflation, GDP) for national-level decisions.
-
-- Collected & cleaned macroeconomic datasets
-- Built **ARIMA, SARIMA, GARCH** forecasting models
-- Automated forecasting pipelines in **Python & R**
-- Performed rigorous model validation & evaluation
-
-</td>
-</tr>
-</table>
+> Projects are being published progressively. Each one reflects a concrete application of my mathematical and data skills.
 
 ---
 
-## 🎓 Education
+### Macroeconomic Forecasting — ARIMA / SARIMA / GARCH
+`Python` · `R` · `Time Series` · `Econometrics`
 
-| Degree | Institution | Period |
-|--------|-------------|--------|
-| 🎓 **MSc Analysis, Modeling & Simulation** | Paris-Saclay University, France | 2024 – 2025 |
-| 🎓 **MSc Pure & Applied Mathematics** | IMSP – Institute of Mathematics & Physical Sciences, Benin | 2022 – 2024 |
-
-**Key coursework:** Numerical methods · Data-driven modeling · Optimal control · Numerical optimization · Probability & Statistics
+End-to-end forecasting pipeline for inflation and GDP indicators. Includes data collection, model selection, automated workflow, and performance evaluation on real macroeconomic datasets.
 
 ---
 
-## 🚀 Featured Projects
+### Dynamic System Stabilization — CentraleSupélec
+`Python` · `Numerical Methods` · `Control Theory` · `Simulation`
 
-> *Projects will appear here as they are published. Stay tuned!*
-
-### 📊 Macroeconomic Forecasting with ARIMA/SARIMA/GARCH
-`Python` `R` `Time Series` `Econometrics`
-
-> Forecasting inflation and GDP indicators for a West African statistical firm. Built automated forecasting pipelines with model selection and validation.
+Mathematical modeling and numerical simulation of antenna and pendulum systems under external disturbances. Identification of optimal stabilization parameters via iterative analysis.
 
 ---
 
-### 🔩 Dynamic System Stabilization (CentraleSupélec)
-`Python` `Numerical Methods` `Control Theory` `Simulation`
-
-> Stabilization of antenna and pendulum systems under external disturbances. Mathematical modeling → numerical simulation → optimal parameter identification.
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff&count_private=true" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&dates=555555&currStreakNum=000000&sideNums=000000)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🧮 Core Competencies
+## Let's Talk
 
-```
-Statistical Modeling    ████████████████████░   95%
-Time Series Analysis    ████████████████████░   92%
-Python Programming      ███████████████████░░   88%
-Mathematical Modeling   ████████████████████░   95%
-R Programming           ████████████████░░░░░   78%
-Machine Learning        ██████████████░░░░░░░   68%  ← in progress
-Data Visualization      ████████████░░░░░░░░░   60%  ← in progress
-SQL                     ██████████░░░░░░░░░░░   50%  ← in progress
-```
-
----
-
-## 📫 Let's Connect
+I am open to **full-time positions**, **internships**, and **freelance missions** in Data Analysis and Data Science — in France or internationally.
 
 <div align="center">
 
-*Open to Data Analyst & Data Scientist opportunities — France or international.*
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacgbetchoevi@gmail.com)
+[![Send an email](https://img.shields.io/badge/Send_an_email-isaacgbetchoevi@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacgbetchoevi@gmail.com)&nbsp;&nbsp;
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
 
@@ -178,10 +144,8 @@ SQL                     ██████████░░░░░░░░�
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=000000&label=Profile+views)
 
-*"Mathematics is the language with which God has written the universe."* — Galileo Galilei
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 </div>

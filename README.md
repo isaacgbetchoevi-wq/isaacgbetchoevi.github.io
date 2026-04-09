@@ -123,41 +123,44 @@ Mathematical modeling and numerical simulation of antenna and pendulum systems u
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff&count_private=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" />
-
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=333333&bg_color=ffffff" alt="Top Languages" />
+  
+  <br><br>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&dates=555555&currStreakNum=000000&sideNums=000000" alt="GitHub Streak" />
+  </a>
 </div>
+
+<hr>
+
+<h2 align="center">Let's Talk</h2>
+
+<p align="center">
+  I am open to <b>full-time positions</b>, <b>internships</b>, and <b>freelance missions</b> in Data Analysis and Data Science — in France or internationally.
+</p>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=333333&dates=555555&currStreakNum=000000&sideNums=000000)](https://git.io/streak-stats)
-
+  <a href="mailto:isaacgbetchoevi@gmail.com">
+    <img src="https://img.shields.io/badge/Send_an_email-isaacgbetchoevi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/votre-profil">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
 </div>
 
----
-
-## Let's Talk
-
-I am open to **full-time positions**, **internships**, and **freelance missions** in Data Analysis and Data Science — in France or internationally.
+<br>
+<hr>
 
 <div align="center">
-
-[![Send an email](https://img.shields.io/badge/Send_an_email-isaacgbetchoevi@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacgbetchoevi@gmail.com)&nbsp;&nbsp;
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=000000&label=Profile+views" alt="Profile Views" />
+  
+  <p><i>"Without data, you're just another person with an opinion."</i> — <b>W. Edwards Deming</b></p>
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=000000&label=Profile+views)
-
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
-</div>

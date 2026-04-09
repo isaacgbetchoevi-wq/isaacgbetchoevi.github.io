@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=180&text=Isaac%20J.%20GBETCHOEVI&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Applied%20Mathematician&descSize=15&descAlignY=68&descColor=cccccc&animation=fadeIn" />
@@ -9,13 +8,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gbetchoevi-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-ici)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gbetchoevi-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/votre-profil)
 [![Email](https://img.shields.io/badge/Email-isaacgbetchoevi%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:isaacgbetchoevi@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B33605509334-000000?style=flat-square)](tel:+33605509334)
 ![English](https://img.shields.io/badge/English-B2_Professional-000000?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-France-000000?style=flat-square)
 
 </div>
+
 
 ---
 

@@ -9,10 +9,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gbetchoevi-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-isaacgbetchoevi@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:isaacgbetchoevi@gmail.com)&nbsp;&nbsp;
-[![Phone](https://img.shields.io/badge/Phone-+33_6_05_50_93_34-000000?style=flat-square)](tel:+33605509334)&nbsp;&nbsp;
-![English](https://img.shields.io/badge/English-B2_Professional-000000?style=flat-square)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Gbetchoevi-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil-ici)
+[![Email](https://img.shields.io/badge/Email-isaacgbetchoevi%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:isaacgbetchoevi@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B33605509334-000000?style=flat-square)](tel:+33605509334)
+![English](https://img.shields.io/badge/English-B2_Professional-000000?style=flat-square)
 ![Location](https://img.shields.io/badge/Location-France-000000?style=flat-square)
 
 </div>

@@ -14,7 +14,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/ton-profil">
+<a href="https://www.linkedin.com/in/isaac-gbetchoevi/">
   <img src="https://img.shields.io/badge/LinkedIn-Isaac_Gbetchoevi-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:isaacgbetchoevi@gmail.com">
@@ -23,7 +23,6 @@
 <a href="tel:+33605509334">
   <img src="https://img.shields.io/badge/Phone-%2B33605509334-000000?style=flat-square" alt="Phone">
 </a>
-<img src="https://img.shields.io/badge/English-B2_Professional-000000?style=flat-square" alt="English">
 <img src="https://img.shields.io/badge/Location-France-000000?style=flat-square" alt="Location">
 
 </div>

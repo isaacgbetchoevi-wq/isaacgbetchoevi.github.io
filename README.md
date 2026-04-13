@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/ebdd4803-1779-4348-bf66-c03e33660d5e" width="150" style="border-radius: 50%;" alt="Isaac Gbetchoevi">
+<img src="https://github.com/user-attachments/assets/ebdd4803-1779-4348-bf66-c03e33660d5e" width="200" style="border-radius: 50%;" alt="Isaac Gbetchoevi">
 
 <br><br>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=180&text=Isaac%20J.%20GBETCHOEVI&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Applied%20Mathematician&descSize=15&descAlignY=68&descColor=cccccc&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=180&text=Isaac%20J.%20GBETCHOEVI&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Chargé%20d'études%20actuarielles%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Mathématicien%20Appliqué&descSize=15&descAlignY=68&descColor=cccccc&animation=fadeIn" />
 
 <br><br>
 
@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=17&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=620&lines=Turning+mathematical+rigor+into+data-driven+decisions.;From+econometric+models+to+machine+learning.;Available+for+Data+Analyst+%26+Data+Scientist+roles." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=17&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=620&lines=Transformer+la+rigueur+mathématique+en+décisions+stratégiques.;Des+modèles+économétriques+au+Machine+Learning.;Disponible+pour+des+postes+en+Actuariat+et+Data+Science." alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -21,125 +21,121 @@
   <img src="https://img.shields.io/badge/Email-isaacgbetchoevi%40gmail.com-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="tel:+33605509334">
-  <img src="https://img.shields.io/badge/Phone-%2B33605509334-000000?style=flat-square" alt="Phone">
+  <img src="https://img.shields.io/badge/Téléphone-%2B33605509334-000000?style=flat-square" alt="Téléphone">
 </a>
-<img src="https://img.shields.io/badge/Location-France-000000?style=flat-square" alt="Location">
+<img src="https://img.shields.io/badge/Lieu-France-000000?style=flat-square" alt="Localisation">
 
 </div>
 
+---
+
+## À propos
+
+Je suis un **mathématicien appliqué** spécialisé en modélisation statistique, analyse de séries temporelles et résolution de problèmes complexes par les données. Mon parcours fait le pont entre les mathématiques fondamentales et leurs applications concrètes : de la prévision d'indicateurs macroéconomiques via les modèles ARIMA/GARCH à la stabilisation de systèmes physiques par simulation numérique.
+
+Rigoureux et analytique, je suis profondément motivé par les projets à fort impact. Je recherche actuellement un poste de **Chargé d'études actuarielles** ou de **Data Scientist** où je pourrai apporter une valeur ajoutée immédiate.
 
 ---
 
-## About
+## Expérience
 
-I am an **applied mathematician** with expertise in statistical modeling, time series analysis, and data-driven problem solving. My background bridges pure mathematics and real-world data applications — from forecasting macroeconomic indicators using ARIMA/GARCH models to stabilizing complex physical systems through numerical simulation.
+### Ingénieur en Modélisation & Simulation — *L2S, CentraleSupélec*
+`Mai 2025 – Août 2025` · Paris, France
 
-I am rigorous, analytical, and deeply motivated by impactful work. I am currently seeking a **Data Analyst** or **Data Scientist** position where I can contribute meaningfully from day one.
+Travail sur la stabilisation de systèmes physiques complexes (antenne, pendule) soumis à des perturbations externes.
 
----
-
-## Experience
-
-### Modeling & Simulation Engineer — *L2S, CentraleSupélec*
-`May 2025 – Aug 2025` · Paris, France
-
-Worked on the stabilization of complex physical systems (antenna, pendulum) under external disturbances.
-
-- Modeled dynamic systems using differential equations and control theory
-- Collected, preprocessed, and analyzed relevant simulation data
-- Developed numerical simulations in Python to validate theoretical results
-- Identified optimal stabilization parameters through iterative analysis
-- Communicated findings to both technical and non-technical stakeholders
+- Modélisation de systèmes dynamiques via équations différentielles et théorie du contrôle.
+- Collecte, prétraitement et analyse des données de simulation.
+- Développement de simulations numériques sous Python pour valider les résultats théoriques.
+- Identification des paramètres d'optimisation par analyse itérative.
+- Communication des résultats aux parties prenantes techniques et non-techniques.
 
 ---
 
-### Data Scientist — *Statistical & Economic Firm*
-`Aug 2023 – Sep 2023` · Lomé, Togo
+### Data Scientist — *Cabinet d'Études Statistiques & Économiques*
+`Août 2023 – Sept 2023` · Lomé, Togo
 
-Forecasted macroeconomic indicators (inflation, GDP, exchange rates) to support national-level economic decisions.
+Prévision d'indicateurs macroéconomiques (inflation, PIB, taux de change) pour l'aide à la décision publique.
 
-- Collected and cleaned macroeconomic datasets from multiple sources
-- Built, compared, and selected forecasting models: **ARIMA, SARIMA, GARCH**
-- Automated end-to-end forecasting workflows using **Python** and **R**
-- Conducted rigorous model validation and performance evaluation
-
----
-
-## Education
-
-### MSc in Analysis, Modeling & Simulation
-**Paris-Saclay University** · 2024 – 2025 · France
-
-Numerical methods · Data-driven modeling · Simulation · Optimal control
+- Collecte et nettoyage de bases de données macroéconomiques multisources.
+- Construction, comparaison et sélection de modèles de prévision : **ARIMA, SARIMA, GARCH**.
+- Automatisation des workflows de prévision avec **Python** et **R**.
+- Validation rigoureuse des modèles et évaluation des performances.
 
 ---
 
-### MSc in Pure and Applied Mathematics
-**Institute of Mathematics and Physical Sciences (IMSP)** · 2022 – 2024 · Benin
+## Formation
 
-Numerical optimization · Probability & Statistics · Mathematical analysis
+### Master en Analyse, Modélisation & Simulation
+**Université Paris-Saclay** · 2024 – 2025 · France
+
+Méthodes numériques · Modélisation par les données · Simulation · Contrôle optimal
 
 ---
 
-## Skills
+### Master en Mathématiques Pures et Appliquées
+**Institut de Mathématiques et de Sciences Physiques (IMSP)** · 2022 – 2024 · Bénin
 
-**Programming**
+Optimisation numérique · Probabilités & Statistiques · Analyse mathématique
+
+---
+
+## Compétences
+
+**Programmation**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_(learning)-555555?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_(apprentissage)-555555?style=flat-square&logo=postgresql&logoColor=white)
 
-**Data & Analysis**
+**Data & Analyse**
 
 ![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 
-**Domains**
+**Domaines**
 
-`Time Series Analysis` &nbsp; `Statistical Modeling` &nbsp; `Econometrics` &nbsp; `Numerical Optimization` &nbsp; `Optimal Control` &nbsp; `Machine Learning` *(in progress)* &nbsp; `Data Visualization` *(in progress)*
-
----
-
-## Projects
-
-> Projects are being published progressively. Each one reflects a concrete application of my mathematical and data skills.
+`Analyse de séries temporelles` &nbsp; `Modélisation Statistique` &nbsp; `Économétrie` &nbsp; `Optimisation Numérique` &nbsp; `Contrôle Optimal` &nbsp; `Machine Learning` *(en cours)* &nbsp; `Visualisation de données` *(en cours)*
 
 ---
 
-### Macroeconomic Forecasting — ARIMA / SARIMA / GARCH
-`Python` · `R` · `Time Series` · `Econometrics`
+## Projets
 
-End-to-end forecasting pipeline for inflation and GDP indicators. Includes data collection, model selection, automated workflow, and performance evaluation on real macroeconomic datasets.
-
----
-
-### Dynamic System Stabilization — CentraleSupélec
-`Python` · `Numerical Methods` · `Control Theory` · `Simulation`
-
-Mathematical modeling and numerical simulation of antenna and pendulum systems under external disturbances. Identification of optimal stabilization parameters via iterative analysis.
+> Mes projets sont publiés progressivement. Chacun reflète une application concrète de mes compétences mathématiques et data.
 
 ---
 
-<h2 align="center">Let's Talk</h2>
+### Prévisions Macroéconomiques — ARIMA / SARIMA / GARCH
+`Python` · `R` · `Séries Temporelles` · `Économétrie`
+
+Pipeline complet de prévision pour les indicateurs d'inflation et de PIB. Inclut la collecte de données, la sélection de modèles et l'évaluation des performances sur des jeux de données réels.
+
+---
+
+### Stabilisation de Systèmes Dynamiques — CentraleSupélec
+`Python` · `Méthodes Numériques` · `Théorie du Contrôle` · `Simulation`
+
+Modélisation mathématique et simulation numérique de systèmes d'antennes et de pendules. Identification des paramètres de stabilisation optimaux via analyse itérative.
+
+---
+
+<h2 align="center">Contactez-moi</h2>
 
 <p align="center">
-  I am open to <b>full-time positions</b> in Data Analysis and Data Science — in Paris and Ile de France regions.
+  Je suis ouvert à des <b>opportunités en CDI</b> en Actuariat et Data Science — idéalement en Île-de-France.
 </p>
 
 <div align="center">
   <a href="mailto:isaacgbetchoevi@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_email-isaacgbetchoevi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+    <img src="https://img.shields.io/badge/Envoyer_un_email-isaacgbetchoevi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Envoyer un email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/votre-profil">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <a href="https://www.linkedin.com/in/isaac-gbetchoevi/">
+    <img src="https://img.shields.io/badge/Profil_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
 <br>
 <hr>
-
-
-

@@ -8,9 +8,7 @@
 
 <br><br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=17&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=620&lines=Transformer+la+rigueur+mathématique+en+décisions+stratégiques.;Des+modèles+économétriques+au+Machine+Learning.;Disponible+pour+des+postes+en+Actuariat+et+Data+Science." alt="Typing SVG" />
-</a>
+
 
 <br><br>
 
